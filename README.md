@@ -2,7 +2,6 @@
 
 ## How to install package
 
-'''COMMAND
+```bash
 pip install -r requirements.txt
-
-'''
+```
