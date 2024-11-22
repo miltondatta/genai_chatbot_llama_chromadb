@@ -5,7 +5,7 @@ from main import chat_chain,setup_vectorstore
 st.set_page_config(
     page_title="Medical Chat Bot",
     page_icon="🫀",
-    layout="center"
+    layout="centered"
 )
 
 st.title("🫀 Multi Documents Medical Chat Bot")
