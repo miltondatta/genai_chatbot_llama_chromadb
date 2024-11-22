@@ -1,2 +1,4 @@
 bot
 .env
+data
+vector_db_store
